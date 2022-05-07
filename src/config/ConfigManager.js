@@ -1,14 +1,14 @@
 const properties = require('properties');
 
 const requiredKeys = [
-  'server-ip',
+  'localhost',
   'server-port',
-  'max-players',
-  'kick-timeout',
-  'online-mode',
-  'motd',
-  'difficulty',
-  'gamemode'
+  '10',
+  '8',
+  'true',
+  'khaledbbd',
+  'hard',
+  'servivel'
 ];
 
 let config;
